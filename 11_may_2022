@@ -1,4 +1,5 @@
-1255. Maximum Score Words Formed by Letters
+1255. Maximum Score Words Formed by Letters :: all subset generation using bitmasking
+
 1262. Greatest Sum Divisible by Three 
 (Related: 1363)
 
@@ -7,6 +8,8 @@
 
 1277. Count Square Submatrices with All Ones
 (Related: Maximum Subsize square)
+(Related: 221 <= Editorial Explain it oerfectly why we need to take 3 direction and NOT diagonal only) 
+TO-DO: list down all related problem for this pattern
 
 /* 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
 */
