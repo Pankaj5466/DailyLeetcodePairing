@@ -1,0 +1,9 @@
+/* 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
+*/
+
+  pCommit = -c user.name='Pankaj' -c user.email='pankaj.54666@gmail.com' commit
+
+git config alias.pCommit "-c user.name='Pankaj' -c user.email='pankaj.54666@gmail.com' commit"
+
+//for commit type
+git pCommit -m "msg"

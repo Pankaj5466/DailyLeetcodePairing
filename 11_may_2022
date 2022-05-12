@@ -5,18 +5,10 @@
 
 2218. Maximum Value of K Coins From Piles (inclusion-elsxclusion)
 1269. Number of Ways to Stay in the Same Place After Some Steps
+list similar question: no of way to reach from matrix start to end
 
 1277. Count Square Submatrices with All Ones
 (Related: Maximum Subsize square)
 (Related: 221 <= Editorial Explain it oerfectly why we need to take 3 direction and NOT diagonal only) 
 TO-DO: list down all related problem for this pattern
-
-/* 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
-*/
-
-  pCommit = -c user.name='Pankaj' -c user.email='pankaj.54666@gmail.com' commit
-
-git config alias.pCommit "-c user.name='Pankaj' -c user.email='pankaj.54666@gmail.com' commit"
-
-//for commit type
-git pCommit -m "msg"
+-> 2088. Count Fertile Pyramids in a Land
