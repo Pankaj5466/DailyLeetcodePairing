@@ -1,0 +1,25 @@
+1478. Allocate Mailboxes <= See ponki approach for 0...idx approach.
+ I have done with l..r approach
+
+1483. Kth Ancestor of a Tree Node <= Was already done (mine ToDO)
+
+
+1493. Longest Subarray of 1's After Deleting One Element
+<= Why 2 pointer is chalengin??
+Two pointer implemetion suggestion.
+-> Always fix one side, then shrink 2nd side (like ponki solution)
+
+
+1494. Parallel Courses II 
+<= Bitmask + dp + chose best at each step
+
+1504. Count Submatrices With All Ones
+<=We have done square counting prolem,but this is rectange counting problem
+
+Similary Problem that can be solved using above: 
+LC 221 : There are two solution (O(n^2), O(n^3))
+
+1524. Number of Sub-arrays With Odd Sum <= Easy
+1525. Number of Good Ways to Split a String <= Easy
+
+1526. Minimum Number of Increments on Subarrays to Form a Target Array <= In Progress Solution
